@@ -36,3 +36,6 @@ This is a simple Pong game implemented using **SFML** and **Object-Oriented Prog
 - **Escape**: Exit the game.
 
 Enjoy playing the game!
+###### NOTE This game was developed as a semester project during the Game Development module in our Computer Science syllabus
+
+
