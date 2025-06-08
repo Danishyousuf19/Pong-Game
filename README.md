@@ -2,6 +2,10 @@
 
 This is a simple Pong game implemented using **SFML** and **Object-Oriented Programming (OOP)** principles. The game features a paddle (bat) and a ball, with collision detection and scoring mechanics.
 
+<p align="center">
+  <img src="976ee370-beb8-4e86-b6c9-8a745ab965bb.png" alt="Gameplay Screenshot" style="width: 500px; height:400px;max-width: 100%;" />
+</p>
+
 ## Features
 
 - **Object-Oriented Design**:
